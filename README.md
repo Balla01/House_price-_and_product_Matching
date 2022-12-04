@@ -4,6 +4,7 @@ variables affect the house price.
 Using more than one model, predict the price of the house using the given dataset. Please compare the
 accuracy of the models along with the drawbacks of each technique's assumptions before recommending
 the final prediction model.
+
 Problem statement 2: Using ML/DL techniques, match similar products from the Flipkart dataset with the Amazon dataset. Once
 similar products are matched, display the retail price from FK and AMZ side by side. Please explore as
 many techniques as possible before choosing the final technique.
